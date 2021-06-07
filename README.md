@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Motion design
 - 🌱 I’m currently learning ... 3D animation
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... send an message on my github
+- 📫 How to reach me ...
 
 <!---
 ieumenal/ieumenal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
